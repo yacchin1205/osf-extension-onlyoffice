@@ -1,6 +1,7 @@
 # @nii/osf-extension-onlyoffice
 
 OnlyOffice integration extension for angular-osf.
+This is an example [file extension](https://github.com/yacchin1205/angular-osf/blob/ceb269eca8ea88531df12fae6ecca6eeca4ee9e5/docs/file-extensions.md) of angular-osf.
 
 ## Features
 
