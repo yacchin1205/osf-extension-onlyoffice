@@ -1,0 +1,27 @@
+{
+  "name": "@nii/osf-extension-onlyoffice",
+  "version": "0.1.0",
+  "description": "OnlyOffice extension for angular-osf",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "peerDependencies": {
+    "@angular/core": ">=19.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  },
+  "keywords": [
+    "osf",
+    "angular",
+    "onlyoffice",
+    "extension"
+  ],
+  "license": "Apache-2.0"
+}
